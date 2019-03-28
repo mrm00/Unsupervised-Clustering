@@ -1,1 +1,1 @@
-# Unsupervised-Clustering
+In this repository I examine data containing information on marketing newsletters/e-mail campaigns (e-mail offers sent to customers) and customer transactions. I implement several unsupervised machine learning algorithms- K means, affinity propagation, spectral clustering, agglomerative clustering, and DBSCAN to cluster customers based on various measurements. I evaluate each model’s performance by qualitative metrics. 
